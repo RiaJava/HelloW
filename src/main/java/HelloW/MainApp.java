@@ -12,7 +12,7 @@ public class MainApp {
      */
     public static void main(String... args) throws Exception {
         System.out.println("HelloW!");
-        System.out.println("HelloW2!");
+        System.out.println("HelloW3!");
     }
 
 }
